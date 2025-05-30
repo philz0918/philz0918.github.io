@@ -14,8 +14,8 @@ My research interests lie at the intersection of **Natural Language Processing (
 
 Currently, I am developing models to detect **internal hidden mental states (e.g., emotions)** and external **linguistic cues (e.g., politeness and formality)** in language. Through this work, I aim to explore:
 
-The relationship between mixed emotions and mental health disorders (e.g., depression, anxiety)
+- The relationship between mixed emotions and mental health disorders (e.g., depression, anxiety)
 
-The correlation between communication gaps in online conversations and AI-predicted mental health risks
+- The correlation between communication gaps in online conversations and AI-predicted mental health risks
 
 Prior to joining UF, I earned a **Bachelor’s degree in Library and Information Science (LIS) and Data Science** from **Sungkyunkwan University**, and a **Master of Science in Data Science** from the **Luddy School of Informatics, Computing, and Engineering at Indiana University**.
