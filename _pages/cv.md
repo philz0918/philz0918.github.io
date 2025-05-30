@@ -7,15 +7,20 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 Education
 ======
-* University of Florida, Gainesville, FL, USAPh.D. in Computer Science, GPA: 3.88/4.00 — May 2022 – PresentAdvisor: Bonnie J. Dorr
+* University of Florida, Gainesville, FL, USA, May 2022-Ongoing
+  * Ph.D. in Computer Science, GPA: 3.88/4.00 
+  * PresentAdvisor: Bonnie J. Dorr
 
-* Indiana University, Bloomington, IN, USAM.S. in Data Science, GPA: 3.88/4.00 — May 2021
+* Indiana University, Bloomington, IN, USA, May 2021
+  * M.S. in Data Science, GPA: 3.88/4.00
 
-* Sungkyunkwan University, Seoul, South KoreaB.A. in Data Science, Library and Information Science, GPA: 4.08/4.50 — Feb 2019
+* Sungkyunkwan University, Seoul, South Korea, Feb, 2019
+  * Bachelor in Data Science, GPA: 3.92/4.50
+  * Bachelor in Library and Information Science, GPA: 4.08/4.50 
 
 * University at Buffalo, Buffalo, NY, USAExchange Student, GPA: 3.93/4.00 — Jan 2016 – May 2016
 
