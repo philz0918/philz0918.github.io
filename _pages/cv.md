@@ -9,7 +9,8 @@ redirect_from:
 
 
 {% include base_path %}
-=====
+
+For the most updated version of my CV, see my [CV](https://github.com/philz0918/sangpilY_cv/blob/main/CV_Sangpil_Y.pdf).
 
 Education
 =====
