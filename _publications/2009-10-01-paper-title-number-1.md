@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+collection: publications
+---
+
+---
 title: "Analysis of Fire Accident Factors on Construction Sites Using Web Crawling and Deep Learning Approach"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
