@@ -9,6 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
+=====
 
 Education
 =====
@@ -29,14 +30,18 @@ Education
 Work Experience
 =====
 
-* Graduate Teaching Assistant — Jan 2023 – PresentDepartment of CISE, University of Florida
+* Graduate Teaching Assistant — Jan 2023 – Present
+  * Department of CISE, University of Florida
   * Taught and developed course projects for Natural Language Processing (CAP 4641 / CIS6930)
 
-* Graduate Research Assistant — Mar 2022 – PresentDepartment of CISE, University of Florida
+* Graduate Research Assistant — Mar 2022 – Present
+  * Department of CISE, University of Florida
   * Developed politeness/formality detection models
   * Designed SRL algorithms for mid-resource languages
   * Established NLP&C lab environment
-*  Instructor — Spring 2024Department of CISE, University of Florida
+
+* Instructor — Spring 2024
+  * Department of CISE, University of Florida
   * Taught Natural Language Processing (CAI 6307)
  
 
