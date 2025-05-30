@@ -1,9 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-collection: publications
----
 
 ---
 title: "Analysis of Fire Accident Factors on Construction Sites Using Web Crawling and Deep Learning Approach"
