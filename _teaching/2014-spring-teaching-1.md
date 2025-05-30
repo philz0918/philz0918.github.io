@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Natural Language Processing"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Florida, Department Computer and Information Science and Engineering"
+date: 2024-01
+location: "Gainesville, FL, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course covers concepts in natural language processing ranging from shallow bag-of words to richer representations and formalisms, for applications such as translation, generation, extraction, summarization, and dialogue. Classic and state-of-the-art techniques and remaining challenges are discussed, as well as recent proposals for meeting those challenges (both symbolic and machine learning approaches). Intended for graduate students doing research related to natural language processing.
 
 Heading 1
 ======
