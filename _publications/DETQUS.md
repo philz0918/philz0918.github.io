@@ -2,6 +2,7 @@
 title: "DETQUS: Decomposition-Enhanced Transformers for QUery-focused Summarization"
 collection: publications
 date: 2025-05-01
+permalink: /publication/DETQUS
 venue: "Proceedings of the 2025 Conference of the NAACL: Human Language Technologies (Volume 1: Long Papers)"
 paperurl: "https://arxiv.org/abs/2503.05935"
 citation: "Khan, Y., Wu, X., Youm, S., Ho, J., Shaikh, A., Garciga, J., Sharma, R., & Dorr, B. (2025). DETQUS: Decomposition-Enhanced Transformers for QUery-focused Summarization. In *Proceedings of the NAACL 2025: Human Language Technologies*, Vol. 1."
