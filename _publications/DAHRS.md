@@ -10,4 +10,4 @@ excerpt: "This paper proposes a hallucination-remediation technique for semantic
 
 Semantic role labeling (SRL) enriches downstream applications such as translation, summarization, and question answering. However, multilingual SRL is challenging due to limited annotated data and projection errors from large language models (LLMs). This paper introduces **DAHRS**, a hallucination-remediated SRL projection method that corrects spurious role labels by modeling divergence-aware alignment and applying a First-Come First-Assign (FCFA) algorithm. DAHRS improves projection accuracy and robustness across language domains.
 
-[Access Paper](https://doi.org/10.1007/978-3-031-70239-6_29)
+[Download paper here](https://doi.org/10.1007/978-3-031-70239-6_29)
