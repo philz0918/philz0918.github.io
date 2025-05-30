@@ -37,10 +37,6 @@ redirect_from:
   * Taught Natural Language Processing (CAI 6307)
 
 
-## Publications
 
-{% assign sorted = site.publications | reverse %} {% for post in sorted %} {% include archive-single.html %} {% endfor %}
-  
-  
 
 
