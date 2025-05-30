@@ -1,7 +1,10 @@
 ---
-layout: page
+permalink: /
 title: 
-permalink: /about/
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a third-year Ph.D. student in Computer Science at the **University of Florida**, fortunate to be advised by Dr. [Bonnie J. Dorr](https://nlp.cise.ufl.edu/~bonniejdorr) in the **NLP & C (Natural Language Processing and Culture) Laboratory** within the **Department of Computer and Information Science and Engineering (CISE)**.
