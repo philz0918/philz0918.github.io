@@ -9,8 +9,8 @@ redirect_from:
 
 
 
-Education
-======
+## Education
+
 * University of Florida, Gainesville, FL, USA, May 2022-Ongoing
   * Ph.D. in Computer Science, GPA: 3.88/4.00 
   * PresentAdvisor: Bonnie J. Dorr
@@ -24,8 +24,8 @@ Education
 
 * University at Buffalo, Buffalo, NY, USAExchange Student, GPA: 3.93/4.00 — Jan 2016 – May 2016
 
-Work Experience
-======
+## Work Experience
+
 * Graduate Teaching Assistant — Jan 2023 – PresentDepartment of CISE, University of Florida
   * Taught and developed course projects for Natural Language Processing (CAP 4641 / CIS6930)
 
@@ -37,13 +37,13 @@ Work Experience
   * Taught Natural Language Processing (CAI 6307)
 
 
-Publications
-======
+## Publications
+
 {% assign sorted = site.publications | reverse %} {% for post in sorted %} {% include archive-single.html %} {% endfor %}
   
   
-Teaching
-======
+## Teaching
+
 {% for post in site.teaching reversed %}{% include archive-single.html %}{% endfor %}
 
 
