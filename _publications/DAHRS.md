@@ -5,7 +5,7 @@ date: 2024-07-12
 permalink: /publication/DAHRS
 venue: "International Conference on Applications of Natural Language to Information Systems (NLDB)"
 paperurl: "https://doi.org/10.1007/978-3-031-70239-6_29"
-citation: "Youm, S., Mather, B., Jayawaeera, C., Prada, J., & Dorr, B. (2024). DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection. In *International Conference on Applications of Natural Language to Information Systems (NLDB)*."
+citation: "Youm, S., Mather, B., Jayawaeera, C., Prada, J., & Dorr, B. (2024). DAHRS: Divergence-Aware Hallucination-Remediated SRL Projection. In International Conference on Applications of Natural Language to Information Systems (NLDB)."
 excerpt: "This paper proposes a hallucination-remediation technique for semantic role labeling (SRL) using linguistically-informed alignment and greedy projection strategies."
 ---
 
