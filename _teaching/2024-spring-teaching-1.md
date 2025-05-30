@@ -2,7 +2,7 @@
 title: "Natural Language Processing"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024-spring-teaching-1
 venue: "University of Florida, Department Computer and Information Science and Engineering"
 date: 2024-01
 location: "Gainesville, FL, USA"
