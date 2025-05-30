@@ -11,47 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Florida, Gainesville, FL, USAPh.D. in Computer Science, GPA: 3.88/4.00 — May 2022 – PresentAdvisor: Bonnie J. Dorr
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Indiana University, Bloomington, IN, USAM.S. in Data Science, GPA: 3.88/4.00 — May 2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Sungkyunkwan University, Seoul, South KoreaB.A. in Data Science, Library and Information Science, GPA: 4.08/4.50 — Feb 2019
+
+* University at Buffalo, Buffalo, NY, USAExchange Student, GPA: 3.93/4.00 — Jan 2016 – May 2016
+
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Teaching Assistant — Jan 2023 – PresentDepartment of CISE, University of Florida
+  * Taught and developed course projects for Natural Language Processing (CAP 4641 / CIS6930)
+
+* Graduate Research Assistant — Mar 2022 – PresentDepartment of CISE, University of Florida
+  * Developed politeness/formality detection models
+  * Designed SRL algorithms for mid-resource languages
+  * Established NLP&C lab environment
+*  Instructor — Spring 2024Department of CISE, University of Florida
+  * Taught Natural Language Processing (CAI 6307)
+
 
 Publications
 ======
 {% assign sorted = site.publications | reverse %} {% for post in sorted %} {% include archive-single.html %} {% endfor %}
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% for post in site.teaching reversed %}{% include archive-single.html %}{% endfor %}
+
+
