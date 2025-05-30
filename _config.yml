@@ -1,3 +1,4 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -81,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Sangpil Youm"
-  avatar           : "profile.png"
+  avatar           : "images/IMG_4207.jpg"
   bio              : "I love philycheese"
   location         : "Gainesville, Florida"
   employer         :
