@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-
+{% include base_path %}
 ## Education
 
 * University of Florida, Gainesville, FL, USA, May 2022-Ongoing
