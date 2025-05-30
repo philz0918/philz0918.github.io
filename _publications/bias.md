@@ -10,4 +10,4 @@ excerpt: "This paper compares rule-based and deep learning methods for political
 
 The unchecked spread of digital misinformation has driven interest in political bias detection in media. This paper evaluates rule-based and deep learning models for classifying political bias in left-leaning (CNN) and right-leaning (FOX) news sources. The analysis shows that rule-based systems are more robust and interpretable across varied datasets, while deep learning systems offer high accuracy but poor generalization and explainability. The study offers insights into designing politically aware, transparent NLP systems.
 
-[Read paper on arXiv](https://arxiv.org/abs/2411.04328)
+[Download paper here](https://arxiv.org/abs/2411.04328)
