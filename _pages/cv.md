@@ -42,8 +42,5 @@ redirect_from:
 {% assign sorted = site.publications | reverse %} {% for post in sorted %} {% include archive-single.html %} {% endfor %}
   
   
-## Teaching
-
-{% for post in site.teaching reversed %}{% include archive-single.html %}{% endfor %}
 
 
