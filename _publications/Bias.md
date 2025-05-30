@@ -5,7 +5,7 @@ date: 2024-11-01
 permalink: /publication/Bias
 venue: "Proceedings of the Second Workshop on Social Influence in Conversations (SICon 2024)"
 paperurl: "https://arxiv.org/abs/2411.04328"
-citation: "Martinez, M., Schmer-Galunder, S., Liu, Z., Youm, S., Jayawaeera, C., & Dorr, B. (2024). Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification. In *SICon 2024*, pp. 102–115."
+citation: "Martinez, M., Schmer-Galunder, S., Liu, Z., Youm, S., Jayawaeera, C., & Dorr, B. (2024). Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification. In SICon 2024, pp. 102–115."
 excerpt: "This study compares rule-based and deep learning systems for classifying political bias in news, examining their transparency, accuracy, and robustness to unseen data."
 ---
 
