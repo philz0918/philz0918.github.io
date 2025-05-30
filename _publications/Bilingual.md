@@ -2,6 +2,7 @@
 title: "Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming"
 collection: publications
 date: 2024-05-15
+permalink: /publication/Bilingual
 venue: "Proceedings of the Fourth Workshop on Multilingual Representation Learning (MRL 2024)"
 paperurl: "https://arxiv.org/abs/2405.09508"
 citation: "Zhang, D., Xiao, B., Gao, C., Youm, S., & Dorr, B. (2024). Modeling Bilingual Sentence Processing: Evaluating RNN and Transformer Architectures for Cross-Language Structural Priming. In Proceedings of the Fourth Workshop on Multilingual Representation Learning (MRL 2024)."
