@@ -20,3 +20,5 @@ Currently, I am developing models to detect **internal hidden mental states (e.g
 
 Prior to joining UF, I earned a **Bachelor’s degree in Library and Information Science (LIS) and Data Science** from **Sungkyunkwan University**, and a **Master of Science in Data Science** from the **Luddy School of Informatics, Computing, and Engineering at Indiana University**.
 
+I am a passionate CrossFitter and ski lover🎿.
+
