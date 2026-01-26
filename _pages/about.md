@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. student in Computer Science at the University of Florid
 
 My research interests lie at the intersection of Natural Language Processing (NLP), Data Science, and Artificual Intelligent. 
 
-Currently, I am developing models to detect internal hidden mental states (e.g., emotions) and external linguistic cues (e.g., politeness and formality) in language using semantic role labeling (SRL). Through this work, I aim to examine:
+Currently, I am developing models to detect internal states (e.g., sentiment and emotion) and external linguistic cues (e.g., politeness and formality) in language using semantic role labeling (SRL). Through this work, I aim to examine:
 
 - Development of a role-aware model for detecting internal states and external lingustic cues.
 - Multilingual extension of the internal states and external linguistic cue detection model.
