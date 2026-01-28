@@ -10,9 +10,10 @@ citation: >-
   "I Still Need Your Help: Online Information Seeking Behavior Among International Students on Reddit."
   Public Library of Science, PLOS ONE, to appear, 2026.
 excerpt: >-
-  This study analyzes international students’ information-seeking behavior on the r/f1visa subreddit before and during
-  the COVID-19 pandemic, revealing a shift from employment-related topics to shared concerns about travel, finances,
-  and entry restrictions, alongside growing solidarity and emotional support despite persistent unmet information needs.
+  This study examines international students’ information-seeking behavior on the r/f1visa subreddit before and during
+  COVID-19, showing a shift from employment topics to shared concerns about travel, finances, and entry restrictions,
+  alongside growing solidarity and emotional support despite persistent unmet information needs.
 ---
+
 
 This study examines the online information-seeking behavior of international students in the United States. Following the onset of COVID-19, their need for timely and relevant information becomes critical. Despite greater challenges than domestic students, limited research explores how international students use online platforms to meet their unique information needs. With online communities being essential sources of information and bridges for online social capital, our study analyzes the r/f1visa subreddit to examine international students’ information-seeking patterns before and during the COVID-19 pandemic. Additionally, we identify unmet information needs through members' interactions and recurring questions. Our analysis reveals a shift in topics, with pandemic discussions focusing on travel, financial difficulties, and entry concerns, while pre-pandemic conversations primarily about employment. The increased similarity among recurring questions during the pandemic suggests a convergence of shared struggles that fosters solidarity and emotional support, even as many informational needs remain inadequately addressed. By examining international students' information needs through the theoretical lens of online social capital, this study contributes to understanding how crisis conditions reshape the dynamics of online communities, blurring traditional distinctions between bonding and bridging capital. The findings can inform universities, policymakers, and online community designers in developing more responsive and inclusive information environments that recognize both the instrumental and emotional support functions of digital platforms for international students.
