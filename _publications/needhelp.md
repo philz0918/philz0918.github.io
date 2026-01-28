@@ -1,5 +1,6 @@
 ---
-title: "I Still Need Your Help: Online Information Seeking Behavior Among International Students on Reddit"
+title: >-
+  "I Still Need Your Help": Online Information Seeking Behavior Among International Students on Reddit
 collection: publications
 date: 2026-01-01
 permalink: /publication/needhelp
