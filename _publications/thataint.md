@@ -1,7 +1,7 @@
 ---
 title: "That Ain’t Right: Assessing LLM Performance on QA in African American and West African English Dialects"
 collection: publications
-date: 2025-05-01
+date: 2025-07
 permalink: /publication/thataint
 venue: "Proceedings of the 9th Widening NLP Workshop, Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 paperurl: "https://aclanthology.org/2025.winlp-main.21/"
