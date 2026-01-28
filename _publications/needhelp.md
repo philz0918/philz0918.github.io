@@ -1,9 +1,9 @@
 ---
 title: '"I Still Need Your Help": Online Information Seeking Behavior Among International Students on Reddit'
 collection: publications
-date: "2026-01"
+date: 2026-01
 permalink: /publication/needhelp
-venue: "PLOS ONE"
+venue: "PLOS One"
 paperurl: "https://scholar.google.com/citations?user=klSyUtMAAAAJ&hl=en"
 citation: >-
   Youm, S., Chaeeun Han, Hojeong Yoo, Sou Hyun Jang, Bonnie Dorr.
