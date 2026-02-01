@@ -4,7 +4,7 @@ collection: publications
 date: 2026-01-01
 permalink: /publication/needhelp
 venue: "PLOS One"
-paperurl: "https://scholar.google.com/citations?user=klSyUtMAAAAJ&hl=en"
+paperurl: " "
 citation: "Youm, S., Chaeeun Han, Hojeong Yoo, Sou Hyun Jang, Bonnie Dorr. I Still Need Your Help: Online Information Seeking Behavior Among International Students on Reddit. Public Library of Science, PLOS ONE, to appear, 2026."
 excerpt: "This study examines international students’ information-seeking behavior on the r/f1visa subreddit before and during COVID-19, showing a shift from employment topics to shared concerns about travel, finances, and entry restrictions, alongside growing solidarity and emotional support despite persistent unmet information needs."
 ---
