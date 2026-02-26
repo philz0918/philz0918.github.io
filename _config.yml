@@ -87,7 +87,7 @@ author:
   location         : "Gainesville, Florida"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=klSyUtMAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=klSyUtMAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "youms@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/philz0918/"
+  github           : "https://github.com/philz0918"
   google_plus      :
   keybase          :
   instagram        :
