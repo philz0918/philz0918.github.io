@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Computer Science at the University of Florida, fortunate to be advised by Dr. [Bonnie J. Dorr](https://nlp.cise.ufl.edu/~bonniejdorr) in the NLP & C (Natural Language Processing and Culture) Laboratory within the Department of Computer and Information Science and Engineering (CISE).
+I am a Ph.D. Candidate in Computer Science in the Department of Computer and Information Science and Engineering (CISE) within the Herbert Wertheim College of Engineering at the University of Florida. I am fortunate to be advised by Dr. [Bonnie J. Dorr](https://nlp.cise.ufl.edu/~bonniejdorr) in the NLP & C (Natural Language Processing and Culture) Laboratory.
 
 My research interests lie at the intersection of Natural Language Processing (NLP), Data Science, and Artificual Intelligent. 
 
