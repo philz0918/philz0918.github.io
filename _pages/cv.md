@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the most up-to-date and complete version of my CV, see my [CV](https://github.com/philz0918/sangpilY_cv/blob/main/CV_Sangpil_Y.pdf).
+For the most up-to-date and complete version of my CV, see my [CV](https://github.com/philz0918/sangpilY_cv/blob/main/CV_Sangpil_Youm.pdf).
 
 Education
 =====
@@ -28,20 +28,28 @@ Education
 
 Work Experience
 =====
-* Instructor — Spring 2024
-  * Department of CISE, University of Florida
-  * Taught Natural Language Processing (CAI 6307)
-    
-* Graduate Teaching Assistant — Jan 2023 – Present
-  * Department of CISE, University of Florida
-  * Taught and developed course projects for Natural Language Processing (CAP 4641 / CIS6930)
 
 * Graduate Research Assistant — Mar 2022 – Present
   * Department of CISE, University of Florida
   * Developed politeness/formality detection models
   * Designed SRL algorithms for mid-resource languages
   * Established NLP&C lab environment
+
+* Graduate Teaching Assistant — Jan 2023 – Present
+  * Department of CISE, University of Florida
+  * Taught and developed course projects for Natural Language Processing (CAP 4641 / CIS6930)
  
+* Instructor — Spring 2024
+  * Department of CISE, University of Florida
+  * Taught Natural Language Processing (CAI 6307)
+
+* Graduate Researcher -  Oct 2020 – May 2021
+  Wissee
+  * Developed an LSTM-CRF model for Named Entity Recognition (NER) on real-world data, achieving 69.3% F1 score under
+    noisy and domain-specific conditions
+
+    
+
 
 
 Publications
