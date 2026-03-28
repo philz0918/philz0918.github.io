@@ -43,8 +43,7 @@ Work Experience
   * Department of CISE, University of Florida
   * Taught Natural Language Processing (CAI 6307)
 
-* Graduate Researcher -  Oct 2020 – May 2021
-  Wissee
+* Graduate Researcher (Wissee) -  Oct 2020 – May 2021
   * Developed an LSTM-CRF model for Named Entity Recognition (NER) on real-world data, achieving 69.3% F1 score under
     noisy and domain-specific conditions
 
