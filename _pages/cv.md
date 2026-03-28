@@ -16,7 +16,7 @@ Education
 =====
 * **University of Florida**, Gainesville, FL, USA, May 2022 - August 2026 (Expected)
   * Ph.D. in Computer Science 
-  * Present Advisor: Bonnie J. Dorr
+  * Advisor: Bonnie J. Dorr
 
 * **Indiana University**, Bloomington, IN, USA, Aug 2019 - May 2021
   * M.S. in Data Science
