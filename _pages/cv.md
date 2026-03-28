@@ -14,7 +14,7 @@ For the most up-to-date and complete version of my CV, see my [CV](https://githu
 
 Education
 =====
-* **University of Florida**, Gainesville, FL, USA, May 2022-Ongoing
+* **University of Florida**, Gainesville, FL, USA, May 2022 - August 2026 (Expected)
   * Ph.D. in Computer Science 
   * Present Advisor: Bonnie J. Dorr
 
